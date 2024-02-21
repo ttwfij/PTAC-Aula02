@@ -6,10 +6,8 @@ export default function App() {
     <div>
         <h1>Hello World</h1>
         <p>Desenvolvido por: {nome1}</p>
-
         <p>Desenvolvido por: {nome2}</p>
+        <p>(sobrenome)</p>
         </div>
   );
-
-
 }
