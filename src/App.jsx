@@ -1,4 +1,3 @@
-
 export default function App() {
 const nome1 = "Weslley";
 const nome2 = "João Santos";
