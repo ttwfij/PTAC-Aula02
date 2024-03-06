@@ -9,4 +9,5 @@ export default function App() {
         <p>Desenvolvido por: {nome2}</p>
         </div>
   );
+  
   }
