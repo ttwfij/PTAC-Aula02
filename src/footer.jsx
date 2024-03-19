@@ -1,9 +1,12 @@
+import "./globalsrc.css"
 import React from "react";
 
 export default function Footer() {
   return (
     <footer>
-      <p>Weslley Gueller de Lima Cunha</p>
+    <div className="pegatudo">
+      <p>Henrique Takume da Silva Nakamura</p>
+      </div>
     </footer>
   );
   };
