@@ -7,7 +7,7 @@ export default function Takume(){
     return(
         <main>
         <div className='main'>
-          <h1>Lista tecnica</h1>
+          <h1>Lista telefonica</h1>
         </div>
         <div className="pegatudo">
             <div className="tudodentro">
