@@ -12,7 +12,7 @@ export default function Takume(){
         <div className="pegatudo">
             <div className="tudodentro">
             <a>Isira seu nome:</a>
-            <br/>
+            <br/>   
             <input type="text" name="" id="nome" 
             anChange={(event)=> setnome(event.target.value)}/>
             <br/>
