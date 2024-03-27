@@ -5,5 +5,5 @@ export default function Footer() {
     <footer>
       <p>Weslley Gueller de Lima Cunha</p>
     </footer>
-  );  
+  );
   };
