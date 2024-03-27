@@ -15,29 +15,31 @@ export default function Takume(){
             <br/>   
             <input type="text" name="" id="nome" 
             anChange={(event)=> setnome(event.target.value)}/>
+            {nome}
             <br/>
             <br/>
             <a>Isira sua idade:</a>
             <br/>
             <input type="text" name="" id="idade"  
             anChange={(event)=> setidade(event.target.value)}/>
-            {nome}
+            {idade}
             <br/>
             <br/>
             <a>Isira seu telefone:</a>
             <br/>
             <input type="text" name="" id="telefone"  
             anChange={(event)=> setele(event.target.value)}/>
-            {idade}
-            <br/>
-            <button className="botao"><h4 className="botaol">Salvar dados</h4></button>
             {telefone}
+            <br/>
+            <button className="botao" id="entra"><h4 className="botaol">Salvar dados</h4></button>
             </div>
             </div>
             <footer className="rodape">
             <h1>Seja bem vindo</h1>
             </footer>
         </main>
+
     )
 }
+
    <script src="Takume.js"></script>

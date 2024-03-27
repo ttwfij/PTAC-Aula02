@@ -1,8 +1,6 @@
-<<<<<<< Updated upstream
+
 import "./globalsrc.css"
-=======
-import "./app"
->>>>>>> Stashed changes
+import './App.jsx'
 export default function App() {
 const nome1 = "Weslley";
 const nome2 = "João Santos";
